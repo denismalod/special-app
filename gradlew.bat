@@ -9,7 +9,7 @@
 @rem ##########################################################################
 @rem
 @rem  Gradle startup script for Windows
-@rem
+@rem Here another information
 @rem ##########################################################################
 
 @rem Set local scope for the variables with windows NT shell
